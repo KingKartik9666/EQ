@@ -38,3 +38,4 @@ Endpoint discovery runs outside the real-time audio path. It is a discovery tool
 - If no valid control packet arrives, the processor remains in its last valid state; startup is neutral EQ.
 
 These are code-level boundaries, not a latency or production-readiness claim. Latency, device behavior, and driver viability must be measured on actual target machines.
+The aboe mentioned part is All formal and work related, as the creator I'm trying something way above my limit so I'll try to be motivated and keep it updated
