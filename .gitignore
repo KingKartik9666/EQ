@@ -1,0 +1,21 @@
+# Build and IDE outputs
+/out/
+/build/
+/.vs/
+/.cache/
+*.user
+*.suo
+*.VC.db
+*.VC.VC.opendb
+
+# Test and runtime artifacts
+/artifacts/
+/logs/
+/crash-dumps/
+
+# Driver build/signing artifacts must never be committed.
+*.sys
+*.cat
+*.cer
+*.pfx
+*.pvk
